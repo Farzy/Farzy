@@ -2,6 +2,8 @@
 
 ## Current status
 
+Starting in January 2021 I’m the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
+
 From 2017 to September 2020 I was the [Head of Infrastructure](https://linkedin.com/in/ffarid) at **[Kapten](https://kapten.com)** a leading French, and now European, ride-hailing company 🚗
 
 By the way you can find Kapten's public GitHub organisation [here](https://github.com/ChauffeurPrive).
@@ -11,13 +13,13 @@ of merging with theirs, I started looking for a new job in May 2020 😱
 On top of this, due to the COVID-19 😷 crisis, our whole company had been working remotely for more than three months and my SRE/IT team had globally
 less work to do.
 
-I'm currently looking for a job. In the meantime I continue practising.
-
 ## Current focus
 
 I decided to make a profit of this free time and to improve my coding & algorithmics skills! 
 You'll find below the list of my personal repositories on
 which I'm writing code. My main centers of interest today are the following (this may of course change over time):
+
+As I have started a new job at the beginning of 2021, I have much less time for my personal improvement projects, so my progress is slower on the projects below.
 
 * **Rust**
   * [*DONE* ✅] I first used **[The Rust Programming Language](https://doc.rust-lang.org/book/)** to teach myself Rust. Here is my training code: https://github.com/Farzy/rust-training
