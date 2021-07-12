@@ -2,7 +2,9 @@
 
 ## Current status
 
-Starting in January 2021 I’m the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
+Starting May 2021 I'm the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
+
+From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
 
 From 2017 to September 2020 I was the [Head of Infrastructure](https://linkedin.com/in/ffarid) at **[Kapten](https://kapten.com)** a leading French, and now European, ride-hailing company 🚗
 
