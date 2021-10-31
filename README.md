@@ -2,7 +2,7 @@
 
 ## Current status
 
-Starting May 2021 I'm the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
+Since May 2021 I'm the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
 
 From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
 
