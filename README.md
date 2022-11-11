@@ -2,6 +2,8 @@
 
 ## Current status
 
+I'm **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
+
 From May 2021 to July 2022 I was the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
 
 From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
