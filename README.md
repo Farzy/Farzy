@@ -2,7 +2,7 @@
 
 ## Current status
 
-I'm **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
+From September 2022 to May 2023 I was **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
 
 From May 2021 to July 2022 I was the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
 
@@ -19,14 +19,19 @@ less work to do.
 
 ## Current focus
 
-I decided to make a profit of this free time and to improve my coding & algorithmics skills! 
+I decided to make a profit of this free time and to improve my Cloud, coding & algorithmics skills! 
 You'll find below the list of my personal repositories on
 which I'm writing code. My main centers of interest today are the following (this may of course change over time):
 
 As I have started a new job at the beginning of 2021, I have much less time for my personal improvement projects, so my progress is slower on the projects below.
 
+* **Kubernetes**
+  * [**In Progress** 🚧] **[Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course-dashboard-redirect/?course_id=2301254)**.
+* **AI/ML**
+  * [*DONE* ✅] **[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)**. Sample code is here: https://github.com/Farzy/chatgpt-prompt-eng.
 * **Blockchain**
-  * [**In Progress** 🚧] I did the **[Brilliant Cryptocurrency](https://brilliant.org/courses/cryptocurrency/)** course. Now I'm following the **[Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)** tutorial on Udemy, the sample code is here: https://github.com/Farzy/blockchain-az.
+  * [*DONE* ✅] I did the **[Brilliant Cryptocurrency](https://brilliant.org/courses/cryptocurrency/)** course. 
+  * [**Paused** ⏸️] Now I'm following the **[Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)** tutorial on Udemy, the sample code is here: https://github.com/Farzy/blockchain-az.
 * **Rust**
   * [*DONE* ✅] I first used **[The Rust Programming Language](https://doc.rust-lang.org/book/)** to teach myself Rust. Here is my training code: https://github.com/Farzy/rust-training
   * [*DONE* ✅] Then I practiced some more using the **Rustling** project: https://github.com/Farzy/rustlings
