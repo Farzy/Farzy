@@ -29,7 +29,7 @@ which I'm writing code. My main centers of interest today are the following (thi
 * **Go**
   * [*DONE* ✅] I just (re)started the **[Go Tour](https://tour.golang.org/)**! I had already practised two years ago, but forgot everything…: https://github.com/Farzy/go-tour
   * [**Paused** ⏸️] I also started the **[Exercism Go track](https://exercism.io/my/tracks/go)**: https://github.com/Farzy/Exercism-go
-  * [*DONE* ✅] I followed **[Golang for beginners](https://www.udemy.com/share/106ixa3@SO14g3HSZlDyXhRCs1JzJVi1E79UQyXvKBCMTJIENQlj7IPJKmChKWKuAqH5CFP0OA==/)** on Udemy in September 2023 in order to freshen my knowledge. Here's my code: https://github.com/Farzy/golang-for-beginners
+  * [*DONE* ✅] I followed **[Golang for beginners](https://www.udemy.com/share/106ixa3@SO14g3HSZlDyXhRCs1JzJVi1E79UQyXvKBCMTJIENQlj7IPJKmChKWKuAqH5CFP0OA==/)** on Udemy in September 2023 in order to freshen my knowledge.
   * [**In Progress** 🚧] I'm following this training in September 2023, **[Golang for DevOps and Cloud Engineers](https://www.udemy.com/share/107N563@8GTLHR6RZX9pLJ4zmKMMJ6bKwirlt5-zEp31DjKiPiQoZOk_g-Qw9R6tdHMqf1iW9g==/)**, here is my code: https://github.com/Farzy/golang-for-devops
 * **Kubernetes**
   * [**In Progress** 🚧] **[Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course-dashboard-redirect/?course_id=2301254)**.
