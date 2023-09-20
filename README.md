@@ -2,20 +2,17 @@
 
 ## Current status
 
-From September 2022 to May 2023 I was **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
+In reverse chronological order:
 
-From May 2021 to July 2022 I was the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
-
-From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
-
-From 2017 to September 2020 I was the [Head of Infrastructure](https://linkedin.com/in/ffarid) at **[Kapten](https://kapten.com)** a leading French, and now European, ride-hailing company 🚗
-
-By the way you can find Kapten's public GitHub organisation [here](https://github.com/ChauffeurPrive).
-
-As Kapten's company, Free Now (~~or should I call them Fire Now?~~ ☠️), has decided to fire the whole French Tech & Product teams instead
-of merging with theirs, I started looking for a new job in May 2020 😱
-On top of this, due to the COVID-19 😷 crisis, our whole company had been working remotely for more than three months and my SRE/IT team had globally
-less work to do.
+* From September 2022 to May 2023 I was **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
+* From May 2021 to July 2022 I was the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
+* From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
+* From 2017 to September 2020 I was the [Head of Infrastructure](https://linkedin.com/in/ffarid) at **[Kapten](https://kapten.com)** a leading French, and now European, ride-hailing company 🚗
+  By the way you can find Kapten's public GitHub organisation [here](https://github.com/ChauffeurPrive).
+  As Kapten's company, Free Now (~~or should I call them Fire Now?~~ ☠️), had decided to layoff the whole French Tech & Product teams in 2020 instead
+  of merging with theirs, I started looking for a new job in May 2020 😱
+  On top of this, due to the COVID-19 😷 crisis, our whole company had been working remotely for more than three months and my SRE/IT team had globally
+  less work to do.
 
 ## Current focus
 
@@ -23,8 +20,17 @@ I decided to make a profit of this free time and to improve my Cloud, coding & a
 You'll find below the list of my personal repositories on
 which I'm writing code. My main centers of interest today are the following (this may of course change over time):
 
-As I have started a new job at the beginning of 2021, I have much less time for my personal improvement projects, so my progress is slower on the projects below.
-
+* **Rust**
+  * [*DONE* ✅] I first used **[The Rust Programming Language](https://doc.rust-lang.org/book/)** to teach myself Rust. Here is my training code: https://github.com/Farzy/rust-training
+  * [*DONE* ✅] Then I practiced some more using the **Rustling** project: https://github.com/Farzy/rustlings
+  * [**Paused** ⏸️] I'm now practing mostly using **[Exercism.io](https://exercism.io)**, here is my code: https://github.com/Farzy/Exercism-rust
+  * [**Paused** ⏸️] I also started playing with **[CodinGame](https://www.codingame.com/)** in Rust (and some Python 3): https://github.com/Farzy/CodinGame
+  * [*DONE* ✅] I finished this excellent training, **[Learn Rust by Building Real Applications](https://www.udemy.com/share/103oAW3@oZ2Qxtk71d0EmOaROGdmHEoVIfjrT9QotclhvbnKHtm-JHoCgjadTviKefa_PM1Z2A==/)** on Udemy in September 2023. Here is my code: https://github.com/Farzy/rust-fundamentals
+* **Go**
+  * [*DONE* ✅] I just (re)started the **[Go Tour](https://tour.golang.org/)**! I had already practised two years ago, but forgot everything…: https://github.com/Farzy/go-tour
+  * [**Paused** ⏸️] I also started the **[Exercism Go track](https://exercism.io/my/tracks/go)**: https://github.com/Farzy/Exercism-go
+  * [*DONE* ✅] I followed **[Golang for beginners](https://www.udemy.com/share/106ixa3@SO14g3HSZlDyXhRCs1JzJVi1E79UQyXvKBCMTJIENQlj7IPJKmChKWKuAqH5CFP0OA==/)** on Udemy in September 2023 in order to freshen my knowledge. Here's my code: https://github.com/Farzy/golang-for-beginners
+  * [**In Progress** 🚧] I'm following this training in September 2023, **[Golang for DevOps and Cloud Engineers](https://www.udemy.com/share/107N563@8GTLHR6RZX9pLJ4zmKMMJ6bKwirlt5-zEp31DjKiPiQoZOk_g-Qw9R6tdHMqf1iW9g==/)**, here is my code: https://github.com/Farzy/golang-for-devops
 * **Kubernetes**
   * [**In Progress** 🚧] **[Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course-dashboard-redirect/?course_id=2301254)**.
 * **AI/ML**
@@ -32,14 +38,6 @@ As I have started a new job at the beginning of 2021, I have much less time for 
 * **Blockchain**
   * [*DONE* ✅] I did the **[Brilliant Cryptocurrency](https://brilliant.org/courses/cryptocurrency/)** course. 
   * [**Paused** ⏸️] Now I'm following the **[Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)** tutorial on Udemy, the sample code is here: https://github.com/Farzy/blockchain-az.
-* **Rust**
-  * [*DONE* ✅] I first used **[The Rust Programming Language](https://doc.rust-lang.org/book/)** to teach myself Rust. Here is my training code: https://github.com/Farzy/rust-training
-  * [*DONE* ✅] Then I practiced some more using the **Rustling** project: https://github.com/Farzy/rustlings
-  * [**Paused** ⏸️] I'm now practing mostly using **[Exercism.io](https://exercism.io)**, here is my code: https://github.com/Farzy/Exercism-rust
-  * [**Paused** ⏸️] I also started playing with **[CodinGame](https://www.codingame.com/)** in Rust (and some Python 3): https://github.com/Farzy/CodinGame 
-* **Go**
-  * [*DONE* ✅] I just (re)started the **[Go Tour](https://tour.golang.org/)**! I had already practised two years ago, but forgot everything…: https://github.com/Farzy/go-tour
-  * [**Paused** ⏸️] I also started the **[Exercism Go track](https://exercism.io/my/tracks/go)**: https://github.com/Farzy/Exercism-go
 * **Python 3**
   * [*DONE* ✅] I started on the **[Python 3.8 tutorial](https://docs.python.org/3.8/tutorial/index.html)** of course: https://github.com/Farzy/python3-training
   * [*DONE* ✅] Then I tried **[Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)** but I didn't really like the book…: https://github.com/Farzy/lpthw
