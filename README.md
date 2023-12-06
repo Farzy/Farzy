@@ -4,6 +4,7 @@
 
 In reverse chronological order:
 
+* December 2023: I'm **Site Reliability Engineering Manager** at **[Algolia](https://algolia.com)**, the world’s only end-to-end AI search and discovery platform.
 * From September 2022 to May 2023 I was **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
 * From May 2021 to July 2022 I was the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
 * From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
