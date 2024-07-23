@@ -7,19 +7,19 @@ In reverse chronological order:
 * From December 2023 to March 2024: I was **Site Reliability Engineering Manager** at **[Algolia](https://algolia.com)**, the world’s only end-to-end AI search and discovery platform.
 * From September 2022 to May 2023 I was **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
 * From May 2021 to July 2022 I was the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
-* From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT).
+<!-- * From January to March 2021 I was the **Head of SRE** at **[Qonto](https://qonto.com)**, managing 3 teams (Platform SRE, App SRE, Internal IT). -->
 * From 2017 to September 2020 I was the [Head of Infrastructure](https://linkedin.com/in/ffarid) at **[Kapten](https://kapten.com)** a leading French, and now European, ride-hailing company 🚗
   By the way you can find Kapten's public GitHub organisation [here](https://github.com/ChauffeurPrive).
-  As Kapten's company, Free Now (~~or should I call them Fire Now?~~ ☠️), had decided to layoff the whole French Tech & Product teams in 2020 instead
-  of merging with theirs, I started looking for a new job in May 2020 😱
+  As Kapten's mother company, Free Now, had decided to layoff the whole French Tech & Product teams in 2020 instead, I started looking for a new job in May 2020 😱
   On top of this, due to the COVID-19 😷 crisis, our whole company had been working remotely for more than three months and my SRE/IT team had globally
-  less work to do.
+  less work to do. I decided to make a profit of this free time and to improve my Cloud, coding & algorithmics skills, hence these trainings.
 
 ## Current focus
 
-I decided to make a profit of this free time and to improve my Cloud, coding & algorithmics skills! 
+After spending time on Kubernetes, Helm and ArgoCD, I have paused training for now.
+
 You'll find below the list of my personal repositories on
-which I'm writing code. My main centers of interest today are the following (this may of course change over time):
+which I have written code. My main centers of interest today are the following (this may of course change over time):
 
 * **Rust**
   * [*DONE* ✅] I first used **[The Rust Programming Language](https://doc.rust-lang.org/book/)** to teach myself Rust. Here is my training code: https://github.com/Farzy/rust-training
