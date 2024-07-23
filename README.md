@@ -3,7 +3,7 @@
 ## Current status
 
 In reverse chronological order:
-
+* Starting May 2024: **Engineering Manager DevOps** at **[Descartes Underwriting](http://descartesunderwirting.com)**, a new generation of insurance that builds resilience against climate, cyber and other emerging risks.
 * From December 2023 to March 2024: I was **Site Reliability Engineering Manager** at **[Algolia](https://algolia.com)**, the world’s only end-to-end AI search and discovery platform.
 * From September 2022 to May 2023 I was **Principal Infrastructure Engineer** at **[Dfns](https://dfns.co)**, provider of Crypto Wallets as an API.
 * From May 2021 to July 2022 I was the **Head of SRE** at **[GitGuardian](https://gitguardian.com)**, a cybersecurity company.
