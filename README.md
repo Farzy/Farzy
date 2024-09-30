@@ -29,14 +29,15 @@ which I have written code. My main centers of interest today are the following (
   * [*DONE* ✅] I finished this excellent training, **[Learn Rust by Building Real Applications](https://www.udemy.com/share/103oAW3@oZ2Qxtk71d0EmOaROGdmHEoVIfjrT9QotclhvbnKHtm-JHoCgjadTviKefa_PM1Z2A==/)** on Udemy in September 2023. Here is my code: https://github.com/Farzy/rust-fundamentals
 * **Go**
   * [*DONE* ✅] I just (re)started the **[Go Tour](https://tour.golang.org/)**! I had already practised two years ago, but forgot everything…: https://github.com/Farzy/go-tour
-  * [**In Progress** 🚧] I also started the **[Exercism Go track](https://exercism.io/my/tracks/go)**: https://github.com/Farzy/Exercism-go
+  * [**Paused** ⏸️] I also started the **[Exercism Go track](https://exercism.io/my/tracks/go)**: https://github.com/Farzy/Exercism-go
   * [*DONE* ✅] I followed **[Golang for beginners](https://www.udemy.com/share/106ixa3@SO14g3HSZlDyXhRCs1JzJVi1E79UQyXvKBCMTJIENQlj7IPJKmChKWKuAqH5CFP0OA==/)** on Udemy in September 2023 in order to freshen my knowledge.
   * [**Paused** ⏸️] I'm following this training in September 2023, **[Golang for DevOps and Cloud Engineers](https://www.udemy.com/share/107N563@8GTLHR6RZX9pLJ4zmKMMJ6bKwirlt5-zEp31DjKiPiQoZOk_g-Qw9R6tdHMqf1iW9g==/)**, here is my code: https://github.com/Farzy/golang-for-devops
 * **Kubernetes**
-  * [**In Progress** 🚧] **[ArgoCD training](https://beta.kodekloud.com/courses/gitops-with-argocd)**
+  * [**Paused** ⏸️] **[ArgoCD training](https://beta.kodekloud.com/courses/gitops-with-argocd)**
   * [*DONE* ✅] **[Helm training](https://kodekloud.com/courses/helm-for-beginners/)**
   * [**Paused** ⏸️] **[Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course-dashboard-redirect/?course_id=2301254)**.
 * **AI/ML**
+  * [**In Progress** 🚧] **[Data Science et Machine Learning | MasterClass Python]()**. An introduction to Dataviz, Linear Regression, K Nearest Neighbors, Decision Tree, Random Forests and Machine Learning in general, with NumPy, Pandas, Matplotlib, Scikit-Learn and much more.
   * [*DONE* ✅] **[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)**. Sample code is here: https://github.com/Farzy/chatgpt-prompt-eng.
 * **Blockchain**
   * [*DONE* ✅] I did the **[Brilliant Cryptocurrency](https://brilliant.org/courses/cryptocurrency/)** course. 
