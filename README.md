@@ -21,12 +21,9 @@ After spending time on Kubernetes, Helm and ArgoCD, I have paused training for n
 You'll find below the list of my personal repositories on
 which I have written code. My main centers of interest today are the following (this may of course change over time):
 
-* **Rust**
-  * [*DONE* ✅] I first used **[The Rust Programming Language](https://doc.rust-lang.org/book/)** to teach myself Rust. Here is my training code: https://github.com/Farzy/rust-training
-  * [*DONE* ✅] Then I practiced some more using the **Rustling** project: https://github.com/Farzy/rustlings
-  * [**Paused** ⏸️] I'm now practing mostly using **[Exercism.io](https://exercism.io)**, here is my code: https://github.com/Farzy/Exercism-rust
-  * [**Paused** ⏸️] I also started playing with **[CodinGame](https://www.codingame.com/)** in Rust (and some Python 3): https://github.com/Farzy/CodinGame
-  * [*DONE* ✅] I finished this excellent training, **[Learn Rust by Building Real Applications](https://www.udemy.com/share/103oAW3@oZ2Qxtk71d0EmOaROGdmHEoVIfjrT9QotclhvbnKHtm-JHoCgjadTviKefa_PM1Z2A==/)** on Udemy in September 2023. Here is my code: https://github.com/Farzy/rust-fundamentals
+* **AI/ML**
+  * [**In Progress** 🚧] **[Data Science et Machine Learning | MasterClass Python](https://www.udemy.com/share/105tQq3@R2hBdpsT0v_A2trjUvFObPp7Gz62oJjlOJRj7IrBuQJoxTyjxn9fOaA6gvl46GuLNw==/)**. An introduction to Dataviz, Linear Regression, K Nearest Neighbors, Decision Tree, Random Forests and Machine Learning in general, with NumPy, Pandas, Matplotlib, Scikit-Learn and much more.
+  * [*DONE* ✅] **[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)**. Sample code is here: https://github.com/Farzy/chatgpt-prompt-eng.
 * **Go**
   * [*DONE* ✅] I just (re)started the **[Go Tour](https://tour.golang.org/)**! I had already practised two years ago, but forgot everything…: https://github.com/Farzy/go-tour
   * [**Paused** ⏸️] I also started the **[Exercism Go track](https://exercism.io/my/tracks/go)**: https://github.com/Farzy/Exercism-go
@@ -36,9 +33,12 @@ which I have written code. My main centers of interest today are the following (
   * [**Paused** ⏸️] **[ArgoCD training](https://beta.kodekloud.com/courses/gitops-with-argocd)**
   * [*DONE* ✅] **[Helm training](https://kodekloud.com/courses/helm-for-beginners/)**
   * [**Paused** ⏸️] **[Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course-dashboard-redirect/?course_id=2301254)**.
-* **AI/ML**
-  * [**In Progress** 🚧] **[Data Science et Machine Learning | MasterClass Python]()**. An introduction to Dataviz, Linear Regression, K Nearest Neighbors, Decision Tree, Random Forests and Machine Learning in general, with NumPy, Pandas, Matplotlib, Scikit-Learn and much more.
-  * [*DONE* ✅] **[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)**. Sample code is here: https://github.com/Farzy/chatgpt-prompt-eng.
+* **Rust**
+  * [*DONE* ✅] I first used **[The Rust Programming Language](https://doc.rust-lang.org/book/)** to teach myself Rust. Here is my training code: https://github.com/Farzy/rust-training
+  * [*DONE* ✅] Then I practiced some more using the **Rustling** project: https://github.com/Farzy/rustlings
+  * [**Paused** ⏸️] I'm now practing mostly using **[Exercism.io](https://exercism.io)**, here is my code: https://github.com/Farzy/Exercism-rust
+  * [**Paused** ⏸️] I also started playing with **[CodinGame](https://www.codingame.com/)** in Rust (and some Python 3): https://github.com/Farzy/CodinGame
+  * [*DONE* ✅] I finished this excellent training, **[Learn Rust by Building Real Applications](https://www.udemy.com/share/103oAW3@oZ2Qxtk71d0EmOaROGdmHEoVIfjrT9QotclhvbnKHtm-JHoCgjadTviKefa_PM1Z2A==/)** on Udemy in September 2023. Here is my code: https://github.com/Farzy/rust-fundamentals
 * **Blockchain**
   * [*DONE* ✅] I did the **[Brilliant Cryptocurrency](https://brilliant.org/courses/cryptocurrency/)** course. 
   * [**Paused** ⏸️] Now I'm following the **[Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/course/build-your-blockchain-az/)** tutorial on Udemy, the sample code is here: https://github.com/Farzy/blockchain-az.
